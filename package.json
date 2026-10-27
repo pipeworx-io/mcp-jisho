@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jisho",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Jisho.org Japanese-English dictionary MCP (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cf277157efd48f41762af1525f83016f53d48ddfb140c60d49b9b949085b5c3d",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-04b2f4ea5fd1a76298089881039135cb8d22871fc9cd988ac372a7245d5175b1",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
